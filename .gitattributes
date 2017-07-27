@@ -1,0 +1,5 @@
+TIF_(layers) filter=lfs diff=lfs merge=lfs -text
+TIF_CMYK_for_print filter=lfs diff=lfs merge=lfs -text
+TIF_RGB_(merged_layers) filter=lfs diff=lfs merge=lfs -text
+*.tiff filter=lfs diff=lfs merge=lfs -text
+*.tif filter=lfs diff=lfs merge=lfs -text

@@ -2,10 +2,8 @@
 
 Created by [RedPanda](http://panda-art.red/) for Golang UA community 
 
-![Golang UA](./PNG/go_ua.png=150x200)
-![With Pandora](./PNG/with_pandora.png=150x200)
-![Gopher Girl](./PNG/modern_merlin.png=150x200)
-![Ommggg](./PNG/gopher_girl.png=150x200)
+<img width="200" alt="Golang UA" src="https://github.com/GolangUA/gopher-logos/blob/master/PNG/go_ua.png"><img width="200" alt="With Pandora" src="https://github.com/GolangUA/gopher-logos/blob/master/PNG/with_pandora.png"><img width="200" alt="Ommgggg" src="https://github.com/GolangUA/gopher-logos/blob/master/PNG/modern_merlin.png"><img width="200" alt="Gopher girl not pink!" src="https://github.com/GolangUA/gopher-logos/blob/master/PNG/gopher_girl.png">
+
 
 ### Legal
 

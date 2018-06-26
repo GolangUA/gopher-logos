@@ -6,6 +6,8 @@
 <img width="130" alt="May the force..." src="https://github.com/GolangUA/gopher-logos/blob/master/PNG/dart.png">
 <img width="110" alt="Noooooooo" src="https://github.com/GolangUA/gopher-logos/blob/master/PNG/luke.png">
 
+> Inspired by [Renée French](http://reneefrench.blogspot.com/)
+
 ***
 
 #### Created by [Nats Romanova](https://www.facebook.com/im.nats.romanova):
@@ -14,6 +16,6 @@
 
 
 
-> It is a fan art variations based on the Go mascot designed by [Renée French](http://reneefrench.blogspot.com/)
+> It is a fan art variation based on the Go mascot designed by [Renée French](http://reneefrench.blogspot.com/)
 
 *License  [https://creativecommons.org/licenses/by/3.0/](https://creativecommons.org/licenses/by/3.0/)*

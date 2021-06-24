@@ -18,4 +18,10 @@
 
 > It is a fan art variation based on the Go mascot designed by [Renée French](http://reneefrench.blogspot.com/)
 
+***
+
+#### Created by [Dipanda Aser](https://github.com/DipandaAser):
+
+<img width="250" alt="birthday" src="https://raw.githubusercontent.com/DipandaAser/gopher-logos/master/PNG/gopher_with_phone.png">
+
 *License  [https://creativecommons.org/licenses/by/3.0/](https://creativecommons.org/licenses/by/3.0/)*
